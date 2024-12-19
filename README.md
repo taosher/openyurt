@@ -26,6 +26,12 @@ It addresses specific challenges for cloud-edge orchestration in Kubernetes such
 edge autonomy, edge device management, region-aware deployment, and so on. OpenYurt preserves intact Kubernetes API compatibility,
 is vendor agnostic, and more importantly, is **SIMPLE** to use.
 
+## Get Your Own Demo on AliababCloud
+
+<a href="https://pre-acs.console.aliyun.com/quick-deploy?repo=taosher/openyurt&branch=master" target="_blank">
+  <img src="https://service-info-public.oss-cn-hangzhou.aliyuncs.com/computenest.svg" alt="Deploy on AlibabaCloud ACS">
+</a>
+
 ## Architecture
 
 OpenYurt follows a classic cloud-edge architecture design.
